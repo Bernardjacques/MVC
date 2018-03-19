@@ -1,0 +1,41 @@
+.presentation1{
+
+    margin-left: 200px;
+    padding-top: 200px;
+}
+
+.presentation1 > h2 {
+    margin-left: -150px;
+text-align: center;
+}
+
+h2 {
+    margin-bottom: 60px;
+    margin-top: 60px;
+}
+
+.photo {
+    margin-bottom: 00px;
+}
+
+.texte > p {
+    margin-left: 60px;
+    margin-right: 700px;
+    margin-bottom: 20px;
+}
+
+.texte > h3 {
+    margin-left: 60px;
+    margin-bottom: 20px;
+}
+
+.texte {
+    font-size: 20px;
+    font-family: lato;
+}
+
+.texte > ul {
+    margin-left: 60px;
+    margin-bottom: 80px;
+    list-style-type: none;
+}

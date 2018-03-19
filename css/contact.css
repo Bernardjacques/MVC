@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.blabla .titre h1 {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+titre > h2 {
+    margin-top: 80px;
+    margin-bottom: 30px;
+}
+
+.blabla
+{
+    margin-top: 190px;
+}

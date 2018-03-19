@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.pied-de-page > p {
+    font-size: 15px;
+    line-height: 3;
+    line-height: 50px;
+}
+
+.pied-de-page  {
+    background-color: #2E2E2E;
+    color: #ffffff;
+    padding-bottom: 20px;
+    text-align: center;
+    padding-top: 30px;
+    text-decoration: none;
+    
+}
+
+.pied-de-page > p > a {
+    text-decoration: none;
+    color: #ffffff;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+
+.pied-de-page
+{
+    line-height: 50px;
+}
